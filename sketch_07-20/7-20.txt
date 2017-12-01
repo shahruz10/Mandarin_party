@@ -1,4 +1,4 @@
-//sketch 7
+//sketche 7
 void Quadr(int a, int b, int c)
 {
   double D, x1, x2;
