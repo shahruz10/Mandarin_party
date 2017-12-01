@@ -1,0 +1,7 @@
+void BolMen(int i, int j)
+{
+  if (i>j)
+    println(j);
+  else
+    println(i);
+}
